@@ -51,6 +51,7 @@ dnf install \
   plasma-breeze \
   plasma-desktop \
   plasma-desktop-doc \
+  plasma-discover \
   plasma-drkonqi \
   plasma-nm \
   plasma-nm-l2tp \
